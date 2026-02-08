@@ -27,29 +27,7 @@ The app detects 7 primary emotions:
 - 🤢 Disgust
 - 😐 Neutral
 
-## 🚀 Deployment Options
-
-### Option 1: Deploy on Streamlit Cloud (Recommended - FREE)
-
-1. **Fork/Upload to GitHub**
-   - Create a new repository on GitHub
-   - Upload all files from this project
-   - Make sure to include: `streamlit_app.py`, `requirements_streamlit.txt`, and `packages.txt`
-
-2. **Deploy on Streamlit Cloud**
-   - Go to [share.streamlit.io](https://share.streamlit.io)
-   - Sign in with GitHub
-   - Click "New app"
-   - Select your repository
-   - Set main file path: `streamlit_app.py`
-   - Set requirements file: `requirements_streamlit.txt`
-   - Click "Deploy"
-
-3. **Your app will be live!**
-   - URL format: `https://[your-app-name].streamlit.app`
-   - Streamlit provides free hosting with automatic SSL
-
-### Option 2: Run Locally
+### Run Locally
 
 #### Streamlit Version (Simpler UI)
 
@@ -166,3 +144,5 @@ voice-sentiment-app/
 ---
 
 **Note**: First run may take longer as the AI model downloads (~ 300MB). Subsequent runs will be much faster.
+
+## 👉🏿 https://shardsnaik-voice-sentiment-app-streamlit-app-rvopdo.streamlit.app/
