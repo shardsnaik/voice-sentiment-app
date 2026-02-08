@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.14.0
+sentencepiece>=0.1.99
+flask
